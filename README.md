@@ -30,6 +30,9 @@ Currently focused on C#/.NET and Node.js, with a growing interest in system arch
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+**Architecture & Patterns**
+
+MVC · MVVM · Clean Architecture · Vertical Slice · CQRS · Repository Pattern
 ---
 
 *Open to junior developer opportunities in the Netherlands.*
