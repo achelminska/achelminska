@@ -33,6 +33,6 @@ Currently focused on C#/.NET and Node.js, with a growing interest in system arch
 **Architecture & Patterns**
 
 MVC · MVVM · Clean Architecture · Vertical Slice · CQRS · Repository Pattern
----
+--
 
 *Open to junior developer opportunities in the Netherlands.*
