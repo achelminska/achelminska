@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Hey! I'm **Aleksandra** — a final-year IT student at WSB-NLU in the Netherlands, building things with intention.
+Hey! I'm **Aleksandra** — a final-year IT student at WSB-NLU in Poland, building things with intention.
 
 From shift management systems in Clean Architecture to Laravel marketplaces and WPF desktop apps — I care a lot about *why* code works, not just *that* it works.
 
