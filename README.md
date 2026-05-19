@@ -92,7 +92,7 @@ I build things with intention — from shift management systems in Clean Archite
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=achelminska&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achelminska&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
