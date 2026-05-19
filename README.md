@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aleksandra%20Chełmińska&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20actually%20work.&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/achelminska/achelminska/main/banner.png" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-year+IT+student+%40+WSB-NLU+%F0%9F%87%B3%F0%9F%87%B1;ASP.NET+Core+%7C+Laravel+%7C+React+Native;Clean+Architecture+%26+CQRS+enthusiast;Open+to+junior+dev+roles+in+NL+%F0%9F%8C%B7)](https://git.io/typing-svg)
@@ -90,11 +90,6 @@ I build things with intention — from shift management systems in Clean Archite
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achelminska&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
