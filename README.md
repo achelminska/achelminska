@@ -43,7 +43,21 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 
 **Architecture & Patterns**
 
-`Clean Architecture` · `CQRS` · `MediatR` · `MVVM` · `Repository Pattern` · `Vertical Slice` · `Domain-Driven Design`
+`Clean Architecture` · `CQRS` · `MediatR` · `MVVM` · `Repository Pattern` · `Vertical Slice`
+
+---
+
+**More tools & frameworks**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=laravel&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black) · `Domain-Driven Design`
 
 ---
 
