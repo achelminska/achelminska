@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Hey! I'm **Aleksandra** — a final-year IT student at WSB-NLU in Poland, building things with intention.
+Hey! I'm **Ola** — a final-year IT student at WSB-NLU in the Netherlands, building things with intention.
 
 From shift management systems in Clean Architecture to Laravel marketplaces and WPF desktop apps — I care a lot about *why* code works, not just *that* it works.
 
@@ -55,6 +55,7 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & DevOps**
 
@@ -63,6 +64,8 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Architecture & Patterns**
 
