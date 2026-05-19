@@ -43,7 +43,6 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Frameworks & Libraries**
 
@@ -61,6 +60,7 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flux UI](https://img.shields.io/badge/Flux_UI-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases**
 
