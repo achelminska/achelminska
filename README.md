@@ -12,17 +12,17 @@
 
 </div>
 
+---
 
 ## 🧠 About Me
 
-Hey! I'm **Ola** — a final-year IT student based in the Netherlands, currently wrapping up my degree at WSB-NLU and working part-time in quality control at Picnic 🥦.
+Hey! I'm **Ola** — a final-year IT student at WSB-NLU in the Netherlands, building things with intention.
 
-I build things with intention — from shift management systems in Clean Architecture to Laravel marketplaces and WPF desktop apps. I care a lot about *why* code works, not just *that* it works.
+From shift management systems in Clean Architecture to Laravel marketplaces and WPF desktop apps — I care a lot about *why* code works, not just *that* it works.
 
-- 🎓 Finishing my engineering thesis: **Rotify** — a shift management app in ASP.NET Core + React Native
+- 🎓 Engineering thesis: **Rotify** — shift management app in ASP.NET Core + React Native
 - 🌱 Currently deepening: Laravel internals, CQRS, system design
-- 🎹 Learning piano and French on the side
-- 🎮 Strategy games & PS Vita enjoyer
+- 🏗️ Interested in clean code, architecture patterns, and building tools that actually solve problems
 - 💼 Open to **junior developer opportunities** in the Netherlands (.NET / PHP / fullstack)
 
 ---
