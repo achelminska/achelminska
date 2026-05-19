@@ -89,9 +89,6 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=achelminska&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achelminska&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-
 </div>
 
 <div align="center">
