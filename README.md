@@ -73,10 +73,15 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 | Project | Stack | Description |
 |---|---|---|
 | 🔄 **[Rotify](https://github.com/achelminska/rotify)** | ASP.NET Core · React Native · CQRS · Clean Arch | Engineering thesis — shift management app with mobile client |
-| 🛒 **[GHSTmarket](https://github.com/achelminska/ghstmarket)** | Laravel 12 · Livewire · Flux UI · PostgreSQL | Marketplace for digital creative assets |
+| 🛒 **[GHSTmarket](https://github.com/achelminska/ghst-market)** | Laravel 12 · Livewire · Flux UI · PostgreSQL | Marketplace for digital creative assets |
 | 💬 **[GHSTbox](https://github.com/achelminska/ghstbox)** | WPF · ASP.NET Core · SignalR | E2EE communicator with Clean Architecture |
 | 🥦 **[QualityCheck](https://github.com/achelminska/qualitycheck)** | Laravel · PHP | Fresh produce quality control system, inspired by Picnic |
 | 🖥️ **[CycleDesk](https://github.com/achelminska/cycledesk)** | WPF · MVVM · EF Core · SQL Server | Bicycle shop management system — thesis defense project |
+| 🌐 **[DigiVaultWeb](https://github.com/achelminska/DigiVaultWeb)** | ASP.NET Core 9 · MVC · JWT | Customer portal and admin intranet for DigiVault |
+| 🔌 **[DigiVaultAPI](https://github.com/achelminska/DigiVaultAPI)** | ASP.NET Core · CQRS · PostgreSQL · Docker | REST API for selling and purchasing digital IT courses |
+| 📱 **[DigiVaultMobile](https://github.com/achelminska/DigiVaultMobile)** | React Native · TypeScript · JWT | Mobile client for DigiVault digital marketplace |
+| 🤖 **[telegram-priority-bot](https://github.com/achelminska/telegram-priority-bot)** | JavaScript · Node.js · Google Apps Script | Telegram bot for warehouse priority notifications |
+| 🌤️ **[arduino-weather-monitor](https://github.com/achelminska/arduino-weather-monitor)** | C++ · Arduino | Weather station with DHT22 sensor and OLED display |
 
 ---
 
