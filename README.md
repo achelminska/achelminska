@@ -31,13 +31,13 @@ From shift management systems in Clean Architecture to Laravel marketplaces and 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js,ts,cpp,html&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,laravel,react,nodejs,alpinejs,tailwind&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlserver,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,git,rider,phpstorm,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,git,github,rider,phpstorm,vscode,visualstudio,postman,npm,arduino,ai&theme=dark)](https://skillicons.dev)
 
 </div>
 
