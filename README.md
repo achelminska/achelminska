@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/achelminska/achelminska/main/banner.png" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-year+IT+student+%40+WSB-NLU+%F0%9F%87%B5%F0%9F%87%B1;ASP.NET+Core+%7C+Laravel+%7C+React+Native;Clean+Architecture+%26+CQRS+enthusiast;Open+to+junior+dev+roles+in+NL+%F0%9F%8C%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-year+IT+student+WSB-NLU+%F0%9F%87%B5%F0%9F%87%B1;ASP.NET+Core+%7C+Laravel+%7C+React+Native;Clean+Architecture+%26+CQRS+enthusiast;Open+to+junior+dev+roles+in+NL+%F0%9F%8C%B7)](https://git.io/typing-svg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&lines=Aleksandra+here+%F0%9F%94%A5+!" alt="Aleksandra here 🔥 !" />
